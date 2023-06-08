@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="2" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="11.546">
+    <testcase classname="Nopcommerce login" name="login with multiple data or parameters or datadriven concepts" time="3.651">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given Nopcom url............................................................passed
+And url page is launched....................................................passed
+When Enter username as "admin@yourstore.com" and password as "admin"........undefined
+When click on login button..................................................skipped
+And nopC homepage is opened.................................................skipped
+]]></failure>
+    </testcase>
+    <testcase classname="Nopcommerce login" name="login with multiple data or parameters or datadriven concepts 2" time="7.722">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given Nopcom url............................................................passed
+And url page is launched....................................................passed
+When Enter username as "kmbb4578@gmail.com" and password as "Mbbasha123@"...undefined
+When click on login button..................................................skipped
+And nopC homepage is opened.................................................skipped
+]]></failure>
+    </testcase>
+</testsuite>
